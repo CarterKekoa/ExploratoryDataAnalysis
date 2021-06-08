@@ -8,5 +8,6 @@
   * Interpreting visualizations
   * Making predictions using simple linear regression
 
-# Refer to the .ipyb files for detailed information in MarkDown
-(AutoData)[https://github.com/CarterKekoa/ExploratoryDataAnalysis/blob/master/AutoData.ipynb]
+# Refer to the .ipynb files for detailed information in MarkDown
+[AutoData](https://github.com/CarterKekoa/ExploratoryDataAnalysis/blob/master/AutoData.ipynb)
+[VGSales](https://github.com/CarterKekoa/ExploratoryDataAnalysis/blob/master/VGSales.ipynb)

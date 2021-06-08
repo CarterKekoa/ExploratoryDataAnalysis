@@ -10,5 +10,5 @@
 
 # Refer to the .ipynb files for detailed information in MarkDown (links below)
 [AutoData](https://github.com/CarterKekoa/ExploratoryDataAnalysis/blob/master/AutoData.ipynb)  
-[VGSales](https://github.com/CarterKekoa/ExploratoryDataAnalysis/blob/master/VGSales.ipynb)
+[VGSales](https://github.com/CarterKekoa/ExploratoryDataAnalysis/blob/master/VGSales.ipynb)  
 [Movies](https://github.com/CarterKekoa/ExploratoryDataAnalysis/blob/master/Movies.ipynb)
